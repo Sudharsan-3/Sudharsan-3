@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sudharsan-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sudharsan-3&icon=4&color=13)](https://visitcount.itsvg.in)
